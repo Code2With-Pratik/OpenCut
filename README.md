@@ -33,7 +33,8 @@ Thanks to [Vercel](https://vercel.com?utm_source=github-opencut&utm_campaign=oss
 - Timeline-based editing
 - Multi-track support
 - Real-time preview
-- No watermarks or subscriptions
+- No watermarks
+- Subscriptions
 - Analytics provided by [Databuddy](https://www.databuddy.cc?utm_source=opencut), 100% Anonymized & Non-invasive.
 - Blog powered by [Marble](https://marblecms.com?utm_source=opencut), Headless CMS.
 
